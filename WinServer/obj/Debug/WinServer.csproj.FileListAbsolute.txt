@@ -1,0 +1,11 @@
+E:\Files\Folder\C#\Проекты\Server\WinServer\bin\Debug\Ionic.Zip.dll
+E:\Files\Folder\C#\Проекты\Server\WinServer\obj\Debug\WinServer.csprojAssemblyReference.cache
+E:\Files\Folder\C#\Проекты\Server\WinServer\obj\Debug\WinServer.csproj.GenerateResource.cache
+E:\Files\Folder\C#\Проекты\Server\WinServer\obj\Debug\WinServer.csproj.CoreCompileInputs.cache
+E:\Files\Folder\C#\Проекты\Server\WinServer\obj\Debug\WinServer.csproj.CopyComplete
+E:\Files\Folder\C#\Проекты\Server\WinServer\obj\Debug\WinServer.Service_WinServer.resources
+E:\Files\Folder\C#\Проекты\Server\WinServer\bin\Debug\mss.exe.config
+E:\Files\Folder\C#\Проекты\Server\WinServer\bin\Debug\mss.exe
+E:\Files\Folder\C#\Проекты\Server\WinServer\bin\Debug\mss.pdb
+E:\Files\Folder\C#\Проекты\Server\WinServer\obj\Debug\mss.exe
+E:\Files\Folder\C#\Проекты\Server\WinServer\obj\Debug\mss.pdb

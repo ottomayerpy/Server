@@ -1,0 +1,7 @@
+E:\Files\Folder\C#\Проекты\Server\WinServerControl\obj\Debug\WinServerControl.csprojAssemblyReference.cache
+E:\Files\Folder\C#\Проекты\Server\WinServerControl\obj\Debug\WinServerControl.csproj.CoreCompileInputs.cache
+E:\Files\Folder\C#\Проекты\Server\WinServerControl\bin\Debug\mssc.exe.config
+E:\Files\Folder\C#\Проекты\Server\WinServerControl\bin\Debug\mssc.exe
+E:\Files\Folder\C#\Проекты\Server\WinServerControl\bin\Debug\mssc.pdb
+E:\Files\Folder\C#\Проекты\Server\WinServerControl\obj\Debug\mssc.exe
+E:\Files\Folder\C#\Проекты\Server\WinServerControl\obj\Debug\mssc.pdb

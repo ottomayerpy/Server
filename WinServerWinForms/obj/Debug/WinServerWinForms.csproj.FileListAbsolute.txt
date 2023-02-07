@@ -1,0 +1,17 @@
+C:\Folder\C#\Проекты\Server\WinServerWinForms\obj\Debug\WinServerWinForms.csprojAssemblyReference.cache
+C:\Folder\C#\Проекты\Server\WinServerWinForms\obj\Debug\WinServerWinForms.Properties.Resources.resources
+C:\Folder\C#\Проекты\Server\WinServerWinForms\obj\Debug\WinServerWinForms.csproj.GenerateResource.cache
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\WinServerWinForms.exe.config
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\WinServerWinForms.exe
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\WinServerWinForms.pdb
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\BouncyCastle.Crypto.dll
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\MailKit.dll
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\MimeKit.dll
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\MailKit.xml
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\MimeKit.xml
+C:\Folder\C#\Проекты\Server\WinServerWinForms\obj\Debug\WinServerWinForms.csproj.CopyComplete
+C:\Folder\C#\Проекты\Server\WinServerWinForms\obj\Debug\WinServerWinForms.exe
+C:\Folder\C#\Проекты\Server\WinServerWinForms\obj\Debug\WinServerWinForms.pdb
+C:\Folder\C#\Проекты\Server\WinServerWinForms\obj\Debug\WinServerWinForms.Form1.resources
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Folder\C#\Проекты\Server\WinServerWinForms\bin\Debug\Newtonsoft.Json.xml
